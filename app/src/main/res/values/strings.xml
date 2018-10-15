@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Giphy</string>
+  <string name = "tab_first" >Trending </string >
+  <string name = "tab_second" >Favorite(s)</string >
+  <string name = "search_gifs" >Search Gifs</string >
+  <string name = "please_wait" >Please wait</string >
+</resources>
